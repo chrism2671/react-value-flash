@@ -18,11 +18,11 @@
     "javascript",
     "typescript"
   ],
-  "main": "dist/Flash.js",
-  "module": "dist/Flash.js",
+  "main": "src/Flash.js",
+  "module": "src/Flash.js",
   "source": "src/Flash.tsx",
   "files": [
-    "dist"
+    "src"
   ],
   "scripts": {
     "build-storybook": "build-storybook",
